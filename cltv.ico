@@ -27,11 +27,9 @@ http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.ibb.co/DbkpP7Z/VTV5fhd-cc.png",VTV5
 http://live-ali2.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
 #EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.ibb.co/vwVm8Ld/VTV5tnb-cc.png",VTV5.TNB
-https://nvzoftzsvflivcf.vcdn.com.vn/vtv5tnb/vtv5tnb@high.m3u8
-#https://api.vthanhtivi.pw/v1/getlink/vtvgo/7
-#https://dl.dropboxusercontent.com/s/mlf4poarp91c72e/																						 ㅤ
+https://code.vthanhtivi.pw/getlink/mytv/615/hd.m3u8																				 ㅤ
 #EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.ibb.co/rvTVy2s/VTV5tn-cc.png",VTV5.TN
-https://nvzoftzsvflivcf.vcdn.com.vn/vtv5tn/vtv5tn@high.m3u8
+https://code.vthanhtivi.pw/getlink/tv360/207/2.m3u8
 #https://api.vthanhtivi.pw/v1/getlink/vtvgo/163
 #https://dl.dropboxusercontent.com/s/chva76tdb6g7qlx/																						 ㅤ
 #EXTINF:0 tvg-id="vtvcanthohd" group-title="VTV" tvg-logo="https://static.mediacdn.vn/vtv/web_images/logo_vtv_cantho2022.png",VTV Cần Thơ
@@ -46,7 +44,7 @@ http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
 #THVL
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="THVL" tvg-logo="https://i.ibb.co/3FZpCTw/thvl1.webp",Vĩnh Long 1 HD
 #EXTVLCOPT:http-user-agent=THVL
-https://livecdn.fptplay.net/hda1/vinhlong1_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="THVL" tvg-logo="https://i.ibb.co/qNh8qGg/thvl2.webp",Vĩnh Long 2 HD
 #EXTVLCOPT:http-user-agent=THVL
 https://livecdn.fptplay.net/hda2/vinhlong2_hls.smil/chunklist_b2500000.m3u8
