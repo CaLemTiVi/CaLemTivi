@@ -14,10 +14,11 @@ https://s.id/sctv09
 #EXTINF:-1 group-title="Cà Lem TV" tvg-logo="https://raw.githubusercontent.com/TrThay/CaLemTivi/main/calemtv4.png",Cà Lem TV 04 S1 - Video Nhạc - phát 24/7
 #EXTVLCOPT:http-user-agent="CalemTV/"
 https://s.id/calemtvr
-#https://s.id/calemtvradio
+#https://edge1-eu-west.picarto.tv/stream/hls/golive%2bCaLemTV/1_0/index.m3u8
 #EXTINF:-1 group-title="Cà Lem TV" tvg-logo="https://raw.githubusercontent.com/TrThay/CaLemTivi/main/calemtv4.png",Cà Lem TV 04 S2 - Video Nhạc - phát 24/7
 #EXTVLCOPT:http-user-agent="CalemTV/"
-https://edge1-eu-west.picarto.tv/stream/hls/golive%2bCaLemTV/3_0/index.m3u8
+http://gg.gg/calemtvr1
+#https://edge1-eu-west.picarto.tv/stream/hls/golive%2bCaLemTV/3_0/index.m3u8
 #EXTINF:-1 group-title="Cà Lem TV" tvg-logo="https://raw.githubusercontent.com/TrThay/CaLemTivi/main/calemtv4.png",Cà Lem TV 04 S3 - Radio Nhạc - phát 24/7
 #EXTVLCOPT:http-user-agent="CalemTV/"
 https://s.id/calemtvradio01
