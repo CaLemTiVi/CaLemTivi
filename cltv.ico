@@ -13,7 +13,8 @@ https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
 https://s.id/sctv09
 #EXTINF:-1 group-title="Cà Lem TV" tvg-logo="https://raw.githubusercontent.com/TrThay/CaLemTivi/main/calemtv4.png",Cà Lem TV 04 - Video Nhạc - phát 24/7
 #EXTVLCOPT:http-user-agent="CalemTV/"
-https://s.id/calemtvradio
+https://voz.ee/s/calemtvradio
+#https://s.id/calemtvradio
 #EXTINF:-1 group-title="Cà Lem TV" tvg-logo="https://raw.githubusercontent.com/TrThay/CaLemTivi/main/calemtv4.png",Cà Lem TV 04 - Radio Nhạc - phát 24/7
 #EXTVLCOPT:http-user-agent="CalemTV/"
 https://s.id/calemtvradio01
