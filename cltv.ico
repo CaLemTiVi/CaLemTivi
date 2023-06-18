@@ -11,14 +11,16 @@ https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="sctv9hd01" group-title="Cà Lem TV" tvg-logo="https://raw.githubusercontent.com/TrThay/CaLemTivi/main/calemtv3.png",Cà Lem TV 03 - Thỏa mãn đam mê
 https://s.id/sctv09
-#EXTINF:-1 group-title="Cà Lem TV" tvg-logo="https://raw.githubusercontent.com/TrThay/CaLemTivi/main/calemtv4.png",Cà Lem TV 04 S1 - Video Nhạc - phát 24/7
+#EXTINF:-1 group-title="Cà Lem TV" tvg-logo="https://raw.githubusercontent.com/TrThay/CaLemTivi/main/calemtv4.png",Cà Lem TV 04 - 1080p - Video Nhạc - phát 24/7
 #EXTVLCOPT:http-user-agent="CalemTV/"
-http://gg.gg/calemtvr1
-#https://edge1-eu-west.picarto.tv/stream/hls/golive%2bCaLemTV/3_0/index.m3u8
-#EXTINF:-1 group-title="Cà Lem TV" tvg-logo="https://raw.githubusercontent.com/TrThay/CaLemTivi/main/calemtv4.png",Cà Lem TV 04 S2 - Video Nhạc - phát 24/7
+https://edge1-eu-west.picarto.tv/stream/hls/golive%2bCaLemTV/1_0/index.m3u8
+#EXTINF:-1 group-title="Cà Lem TV" tvg-logo="https://raw.githubusercontent.com/TrThay/CaLemTivi/main/calemtv4.png",Cà Lem TV 04 720p - Video Nhạc - phát 24/7
 #EXTVLCOPT:http-user-agent="CalemTV/"
-https://s.id/calemtvr
-#https://edge1-eu-west.picarto.tv/stream/hls/golive%2bCaLemTV/1_0/index.m3u8
+https://edge1-eu-west.picarto.tv/stream/hls/golive%2bCaLemTV/3_0/index.m3u8
+#EXTINF:-1 group-title="Cà Lem TV" tvg-logo="https://raw.githubusercontent.com/TrThay/CaLemTivi/main/calemtv4.png",Cà Lem TV 04 480p - Video Nhạc - phát 24/7
+#EXTVLCOPT:http-user-agent="CalemTV/"
+https://edge1-eu-west.picarto.tv/stream/hls/golive%2bCaLemTV/4_0/index.m3u8
+
 #EXTINF:-1 group-title="Cà Lem TV" tvg-logo="https://raw.githubusercontent.com/TrThay/CaLemTivi/main/calemtv4.png",Cà Lem TV 04 S3 - Radio Nhạc - phát 24/7
 #EXTVLCOPT:http-user-agent="CalemTV/"
 https://s.id/calemtvradio01
