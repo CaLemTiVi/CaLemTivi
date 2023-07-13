@@ -29,29 +29,39 @@ https://edge1-eu-west.picarto.tv/stream/hls/golive%2bCaLemTV/3_0/index.m3u8
 
 #VTV1080
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/sCvdQgs/VTV1fhd-cc.png",VTV1
-https://live-ali4.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
+http://stream.cvmtv.site/vtv1?token=live
+#https://live-ali4.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.ibb.co/kq4K240/VTV2fhd-cc.png",VTV2
-https://live-zlr1.tv360.vn/manifest/vtv2/playlist_1080p.m3u8
+https://fbvip88.com/fptplay/getfpt.php?id=vtv2-hd
+#https://live-zlr1.tv360.vn/manifest/vtv2/playlist_1080p.m3u8
 #EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.ibb.co/hRcHQw9/VTV3fhd-cc.png",VTV3
-https://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-5M.m3u8
+http://stream.cvmtv.site/vtv3?token=live
+#https://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-5M.m3u8
 #EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.ibb.co/2ZJBk5S/VTV4fhd-cc.png",VTV4
-https://code.vthanhtivi.pw/getlink/mytv/378/hd.m3u8
+https://fbvip88.com/fptplay/getfpt.php?id=vtv4-hd
+#https://code.vthanhtivi.pw/getlink/mytv/378/hd.m3u8
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.ibb.co/DbkpP7Z/VTV5fhd-cc.png",VTV5
-http://live-ali2.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
+http://stream.cvmtv.site/vtv5?token=live
+#http://live-ali2.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
 #EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.ibb.co/vwVm8Ld/VTV5tnb-cc.png",VTV5.TNB
-https://code.vthanhtivi.pw/getlink/mytv/615/hd.m3u8																				 ㅤ
+http://stream.cvmtv.site/vtv5tnb?token=live
+#https://code.vthanhtivi.pw/getlink/mytv/615/hd.m3u8																				 ㅤ
 #EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.ibb.co/rvTVy2s/VTV5tn-cc.png",VTV5.TN
-https://code.vthanhtivi.pw/getlink/tv360/207/2.m3u8
+https://tiemnhazunn.click/tv360/tv360.php?id=207
 #https://api.vthanhtivi.pw/v1/getlink/vtvgo/163
 #https://dl.dropboxusercontent.com/s/chva76tdb6g7qlx/																						 ㅤ
 #EXTINF:0 tvg-id="vtvcanthohd" group-title="VTV" tvg-logo="https://static.mediacdn.vn/vtv/web_images/logo_vtv_cantho2022.png",VTV Cần Thơ
 http://live.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
 #EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.ibb.co/CMyX4Yp/VTV7fhd-cc.png",VTV7
-https://code.vthanhtivi.pw/getlink/mytv/459/hd.m3u8
+https://fbvip88.com/fptplay/getfpt.php?id=vtv7-hd
+#https://code.vthanhtivi.pw/getlink/mytv/459/hd.m3u8
 #EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.ibb.co/N6VczD2/VTV8fhd-cc.png",VTV8
-https://code.vthanhtivi.pw/getlink/mytv/380/hd.m3u8
+https://fbvip88.com/fptplay/getfpt.php?id=vtv8-hd
+#https://code.vthanhtivi.pw/getlink/mytv/380/hd.m3u8
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.ibb.co/MBsSYvb/VTV9fhd-cc.png",VTV9
-https://code.vthanhtivi.pw/getlink/mytv/381/hd.m3u8
+https://fbvip88.com/fptplay/getfpt.php?id=vtv9-hd
+#https://code.vthanhtivi.pw/getlink/mytv/381/hd.m3u8
+
 
 #THVL
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="THVL" tvg-logo="https://i.ibb.co/3FZpCTw/thvl1.webp",Vĩnh Long 1 HD
