@@ -1,24 +1,24 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="calemtv1" tvg-logo="https://raw.githubusercontent.com/TrThay/CaLemTivi/main/calemtv1.png",Cà Lem TV 01 - Làm mới cuộc sống của bạn
+#EXTINF:-1 tvg-id="calemtv1" group-title="Cà Lem TV" tvg-logo="https://raw.githubusercontent.com/TrThay/CaLemTivi/main/calemtv1.png",Cà Lem TV 01 - Làm mới cuộc sống của bạn
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=104722&extension=ts&play_token=O2NNroHgM0
 
-#EXTINF:-1 tvg-id="calemtv2" tvg-logo="https://raw.githubusercontent.com/TrThay/CaLemTivi/main/calemtv2.png",Cà Lem TV 02 - Giải trí bất tận
+#EXTINF:-1 tvg-id="calemtv2" group-title="Cà Lem TV" tvg-logo="https://raw.githubusercontent.com/TrThay/CaLemTivi/main/calemtv2.png",Cà Lem TV 02 - Giải trí bất tận
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=20365&extension=ts&play_token=9xznlzuN0l
 
-#EXTINF:-1 tvg-id="calemtv3" tvg-logo="https://raw.githubusercontent.com/TrThay/CaLemTivi/main/calemtv3.png",Cà Lem TV 03 - Thỏa mãn đam mê
+#EXTINF:-1 tvg-id="calemtv3" group-title="Cà Lem TV" tvg-logo="https://raw.githubusercontent.com/TrThay/CaLemTivi/main/calemtv3.png",Cà Lem TV 03 - Thỏa mãn đam mê
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=20370&extension=ts&play_token=omFAOfkOwY
 
-#EXTINF:-1 tvg-id="calemtv4radio" tvg-logo="https://raw.githubusercontent.com/TrThay/CaLemTivi/main/calemtv4.png",Cà Lem TV 04 S3 - Radio Nhạc - phát 24/7
+#EXTINF:-1 tvg-id="calemtv4radio" group-title="Cà Lem TV" tvg-logo="https://raw.githubusercontent.com/TrThay/CaLemTivi/main/calemtv4.png",Cà Lem TV 04 S3 - Radio Nhạc - phát 24/7
 https://s.id/calemtvradio01
 
-#EXTINF:-1 tvg-id="calemtv4-1080p" tvg-logo="https://raw.githubusercontent.com/TrThay/CaLemTivi/main/calemtv4.png",Cà Lem TV 04 - 1080p - Video Nhạc - phát 24/7
+#EXTINF:-1 tvg-id="calemtv4-1080p" group-title="Cà Lem TV" tvg-logo="https://raw.githubusercontent.com/TrThay/CaLemTivi/main/calemtv4.png",Cà Lem TV 04 - 1080p - Video Nhạc - phát 24/7
 https://edge1-eu-west.picarto.tv/stream/hls/golive%2bCaLemTV/1_0/index.m3u8
 
-#EXTINF:-1 tvg-id="calemtv4-720p" tvg-logo="https://raw.githubusercontent.com/TrThay/CaLemTivi/main/calemtv4.png",Cà Lem TV 04 720p - Video Nhạc - phát 24/7
+#EXTINF:-1 tvg-id="calemtv4-720p" group-title="Cà Lem TV" tvg-logo="https://raw.githubusercontent.com/TrThay/CaLemTivi/main/calemtv4.png",Cà Lem TV 04 720p - Video Nhạc - phát 24/7
 https://edge1-eu-west.picarto.tv/stream/hls/golive%2bCaLemTV/2_0/index.m3u8
 
-#EXTINF:-1 tvg-id="calemtv4-480p" tvg-logo="https://raw.githubusercontent.com/TrThay/CaLemTivi/main/calemtv4.png",Cà Lem TV 04 480p - Video Nhạc - phát 24/7
+#EXTINF:-1 tvg-id="calemtv4-480p" group-title="Cà Lem TV" tvg-logo="https://raw.githubusercontent.com/TrThay/CaLemTivi/main/calemtv4.png",Cà Lem TV 04 480p - Video Nhạc - phát 24/7
 https://edge1-eu-west.picarto.tv/stream/hls/golive%2bCaLemTV/3_0/index.m3u8
 
 
