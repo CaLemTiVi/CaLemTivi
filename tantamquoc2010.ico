@@ -1,1 +1,11 @@
-
+#EXTM3U Tân Tam Quốc 2010 - Lưu tầm và upload bởi Cà Lem TV
+#EXTINF:-1 group-title="Tân Tam Quốc 2010" tvg-logo="https://raw.githubusercontent.com/CaLemTiVi/CaLemTivi/main/3q.jpg",Tân Tam Quốc 2010 - Tập 1
+https://helurl.com/api/v1/file-entries/download/MTQ1NTk2M3xwYQ?shareable_link=3634&password=null
+#EXTINF:-1 group-title="Tân Tam Quốc 2010" tvg-logo="https://raw.githubusercontent.com/CaLemTiVi/CaLemTivi/main/3q.jpg",Tân Tam Quốc 2010 - Tập 2
+https://helurl.com/api/v1/file-entries/download/MTQ1NjE3MnxwYQ?shareable_link=3635&password=null
+#EXTINF:-1 group-title="Tân Tam Quốc 2010" tvg-logo="https://raw.githubusercontent.com/CaLemTiVi/CaLemTivi/main/3q.jpg",Tân Tam Quốc 2010 - Tập 3
+https://helurl.com/api/v1/file-entries/download/MTQ1NjM5MHxwYQ?shareable_link=3636&password=null
+#EXTINF:-1 group-title="Tân Tam Quốc 2010" tvg-logo="https://raw.githubusercontent.com/CaLemTiVi/CaLemTivi/main/3q.jpg",Tân Tam Quốc 2010 - Tập 4
+https://helurl.com/api/v1/file-entries/download/MTQ1NjYwMHxwYQ?shareable_link=3637&password=null
+#EXTINF:-1 group-title="Tân Tam Quốc 2010" tvg-logo="https://raw.githubusercontent.com/CaLemTiVi/CaLemTivi/main/3q.jpg",Tân Tam Quốc 2010 - Tập 5
+https://helurl.com/api/v1/file-entries/download/MTQ1NjgzM3xwYQ?shareable_link=3638&password=null
