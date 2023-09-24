@@ -39,7 +39,7 @@ https://live2onsport.vtvcab.vn/dash/VTV4_HD/m20_index.m3u8
 https://live-ali2.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
 #http://live-ali2.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
 #EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.ibb.co/vwVm8Ld/VTV5tnb-cc.png",VTV5.TNB
-https://live-ali2.tv360.vn/manifest/VTV5-TNB/playlist_1080p.m3u8																			 ㅤ
+https://live-ali2.tv360.vn/manifest/VTV5-TNB/playlist_1080p.m3u8															 ㅤ
 #EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.ibb.co/rvTVy2s/VTV5tn-cc.png",VTV5.TN
 https://live-ali2.tv360.vn/manifest/VTV5_Tay_Nguyen_HD/playlist_1080p.m3u8													 ㅤ
 #EXTINF:0 tvg-id="vtvcanthohd" group-title="VTV" tvg-logo="https://static.mediacdn.vn/vtv/web_images/logo_vtv_cantho2022.png",VTV Cần Thơ
