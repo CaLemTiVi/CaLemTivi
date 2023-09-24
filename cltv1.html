@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Lấy Nội Dung Tệp TXT</title>
+</head>
+<body>
+  <h1>Nội Dung Tệp TXT</h1>
+  <pre id="txt-content"></pre>
+
+  <script>
+    // Địa chỉ URL của tệp TXT
+    var txtUrl = "https://calemtv.000webhostapp.com/cltv.txt";
+
+    // Sử dụng XMLHttpRequest để tải tệp tin
+    var xhr = new XMLHttpRequest();
+    xhr.open("GET", txtUrl, true);
+
+    xhr.onreadystatechange = function() {
+      if (xhr.readyState === 4 && xhr.status === 200) {
+        // Xử lý nội dung tệp tin
+        var txtContent = xhr.responseText;
+
+        // Hiển thị nội dung tệp tin trong phần tử <pre>
+        var txtContentElement = document.getElementById("txt-content");
+        txtContentElement.textContent = txtContent;
+      }
+    };
+
+    // Gửi yêu cầu để tải tệp tin
+    xhr.send();
+  </script>
+</body>
+</html>
