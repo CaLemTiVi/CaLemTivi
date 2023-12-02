@@ -24,37 +24,27 @@ https://s.id/calemtvradio01
 
 #VTV1080
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/sCvdQgs/VTV1fhd-cc.png",VTV1
-#http://stream.cvmtv.site/vtv1?token=live
-https://live-ali2.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtv1/index.m3u8
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.ibb.co/kq4K240/VTV2fhd-cc.png",VTV2
-#https://fbvip88.com/fptplay/getfpt.php?id=vtv2-hd
-https://live-ali2.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtv2/index.m3u8
 #EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.ibb.co/hRcHQw9/VTV3fhd-cc.png",VTV3
-#http://stream.cvmtv.site/vtv3?token=live
-https://live2onsport.vtvcab.vn/dash/VTV3_HD/m20_index.m3u8
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtv3/index.m3u8
 #EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.ibb.co/2ZJBk5S/VTV4fhd-cc.png",VTV4
-#https://fbvip88.com/fptplay/getfpt.php?id=vtv4-hd
-https://live2onsport.vtvcab.vn/dash/VTV4_HD/m20_index.m3u8
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtv4/index.m3u8
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.ibb.co/DbkpP7Z/VTV5fhd-cc.png",VTV5
-https://live-ali2.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
-#http://live-ali2.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtv5/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/DinhLap96/ListTivi/main/ListTiVi/Logo/VTV5tnb_logo.png", VTV5 Tây Nam Bộ
 https://live-ali2.tv360.vn/manifest/VTV5-TNB/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/DinhLap96/ListTivi/main/ListTiVi/Logo/VTV5taynguyen_logo.png", VTV5 Tây Nguyên
 https://live-ali2.tv360.vn/manifest/VTV5_Tay_Nguyen_HD/playlist_1080p.m3u8
 #EXTINF:0 tvg-id="vtvcanthohd" group-title="VTV" tvg-logo="https://static.mediacdn.vn/vtv/web_images/logo_vtv_cantho2022.png",VTV Cần Thơ
-#http://live.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
-https://live-ali2.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtv6/index.m3u8
 #EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.ibb.co/CMyX4Yp/VTV7fhd-cc.png",VTV7
-https://live2onsport.vtvcab.vn/dash/VTV7_HD/m20_index.m3u8
-#https://code.vthanhtivi.pw/getlink/mytv/459/hd.m3u8
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtv7/index.m3u8
 #EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.ibb.co/N6VczD2/VTV8fhd-cc.png",VTV8
-https://live2onsport.vtvcab.vn/dash/VTV8_HD/m20_index.m3u8
-#https://code.vthanhtivi.pw/getlink/mytv/380/hd.m3u8
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtv8/index.m3u8
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.ibb.co/MBsSYvb/VTV9fhd-cc.png",VTV9
-https://live2onsport.vtvcab.vn/dash/VTV9_HD/m20_index.m3u8
-#https://code.vthanhtivi.pw/getlink/mytv/381/hd.m3u8
-
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3u8
 
 #THVL
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="THVL" tvg-logo="https://i.ibb.co/3FZpCTw/thvl1.webp",Vĩnh Long 1 HD
