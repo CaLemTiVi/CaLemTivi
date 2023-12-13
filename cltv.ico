@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" tvg-shift=0 m3uautoload=1
 #EXTM3U url-tvg="http://gg.gg/calemtvepg"
 
-#EXTM3U Cà Lem TV - Làm mới cuộc sống của bạn - Nguồn từ các list chia sẽ công khai trên các nhóm, xin cảm ơn dinhlaptivi, cvacetv.ga, beartv, coocaa, vthanhtivi.pw, acebongdabes, phaptx5, thapcam v.v.v
+#EXTM3U Cà Lem TV - Làm mới cuộc sống của bạn - chúng tôi không tạo ra nội dung có vi phạm bản quyền - Các nguồn từ các list chia sẽ công khai trên các nhóm, xin cảm ơn dinhlaptivi, cvacetv.ga, beartv, coocaa, vthanhtivi.pw, acebongdabes, phaptx5, thapcam v.v.v
  
 #EXTINF:-1 group-title="Cà Lem TV" tvg-logo="https://raw.githubusercontent.com/TrThay/CaLemTivi/main/calemtv1.png",Cà Lem TV 01 - Làm mới cuộc sống của bạn.
 
