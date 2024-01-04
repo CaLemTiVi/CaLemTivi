@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:60,VTV1 HD
+#EXTINF:0,VTV1 HD
 https://cdnw-liv02.todayplus.com.vn/hdb/smil:vtv1-sub.smil/chunklist_w28623972_b2289152.m3u8
 #EXTINF:0,VTV2
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtv2/index.m3u8
@@ -12,11 +12,11 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtv5/index.m3u8
 #EXTINF:0,VTV5 HD
 https://liveh12.vtvcab.vn/hls/ONVTV5_CL/04.m3u8
 
-#EXTINF:0,VTV5 Tây Nam B
+#EXTINF:0,VTV5 Tây Nam Bộ
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtv5_tnb/index.m3u8
-#EXTINF:0,VTV5 HD Tây Nam B
+#EXTINF:0,VTV5 HD Tây Nam Bộ
 https://liveh12.vtvcab.vn/hls/ONVTV5TNB_CL/04.m3u8
-#EXTINF:0,VTV C
+#EXTINF:0,VTV Cần Thơ
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv6/index.m3u8
 #EXTINF:0,VTV7 HD
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv7/index.m3u8
@@ -24,9 +24,9 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/vtv7/index.m3u8
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtv8/index.m3u8
 #EXTINF:0,VTV9 HD
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3u8
-#EXTINF:0,ON Vie GI
+#EXTINF:0,ON Vie GIẢI TRÍ
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8
-#EXTINF:0,ON Phim Vi
+#EXTINF:0,ON Phim Việt
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8
 #EXTINF:0,ON Sports HD
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8
